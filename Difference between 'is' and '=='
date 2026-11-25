@@ -1,0 +1,9 @@
+a = [10, 20, 30]
+b = [10, 20, 30]
+
+print(a == b)     # Both have same values
+
+a = [10, 20, 30]
+b = [10, 20, 30]
+
+print(a is b)      # Although both have same values, they are two different lis
